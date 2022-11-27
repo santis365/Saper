@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d513351058091de4ba00496ee4553541
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bomba: {instanceID: 0}
+  - kafelek0: {instanceID: 0}
+  - kafelek1: {instanceID: 0}
+  - kafelek2: {instanceID: 0}
+  - kafelek3: {instanceID: 0}
+  - kafelek4: {instanceID: 0}
+  - kafelek5: {instanceID: 0}
+  - kafelek6: {instanceID: 0}
+  - kafelek7: {instanceID: 0}
+  - kafelek8: {instanceID: 0}
+  - kafelekGlowny: {instanceID: 0}
+  - timerText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
